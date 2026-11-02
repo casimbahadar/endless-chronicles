@@ -63,5 +63,6 @@ After uploading a new version, reload the page once or twice so the browser repl
 
 - Fire Emblem and its characters, art and music belong to Nintendo and Intelligent Systems. This project uses them only from a ROM you provide.
 - Spell, breath and other battle animations come from the [FE Repo](https://github.com/Klokinator/FE-Repo), made by its community artists, who are credited in the asset folders there (among them SHYUTERz, Arch, Blazer, Norikins, Jubby, HIROTO and Mikey Seregon).
+- The roguelike map's stop icons are FE Repo item icons by 2WB, Batima, BatimaTheBat, Beansy, EldritchA, Indogutsu Tenbuki, Lisandra Brave, Maxim, Pikmin, WAve, Windsweep, Zarg.
 - Extra music comes from the FE-Repo-Music collection (The Unlicense). Runa's songs are used with credit to runa/unuesu.
 - Endless Chronicle was designed by Casim and built with Claude.
